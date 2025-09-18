@@ -1,0 +1,1 @@
+Se você não ta sabendo vai ficar sabendo. Esses arquivos a cima são do meu projeto CRUD no C#. Auxiliado pela minha professorar Tattianne, criei um sistema que recebe os dados: nome, telefone, e email e armazena ele no banco de dados MySql.
